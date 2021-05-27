@@ -1,3 +1,1 @@
-this is sample text file
-ths is logan
-this is the change in remote repos
+this is a sample text file
